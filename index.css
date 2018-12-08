@@ -1,11 +1,12 @@
 body{
     color: white;
     background-image:url("wallpaper.jpg");
+    font-family:sans-serif
 }
 a{
-    color: white
+    color: white;
 }
 img:hover{
-    opacity:0.9;
+    opacity:0.75;
     
 }
