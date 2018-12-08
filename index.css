@@ -5,3 +5,7 @@ body{
 a{
     color: white
 }
+img:hover{
+    opacity:0.9;
+    
+}
